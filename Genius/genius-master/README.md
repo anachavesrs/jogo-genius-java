@@ -1,3 +1,0 @@
-# genius
-Jogo em java swing desenvolvido por eric sobral 
-...
